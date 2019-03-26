@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import TodosList from './todos-list.component';
-import EditTodo from './edit-todo.component';
-import CreateTodo from './create-todo.component';
+import TodosList from './components/todos-list.component';
+import EditTodo from './components/edit-todo.component';
+import CreateTodo from './components/create-todo.component';
 
 import logo from './logo.svg';
 
